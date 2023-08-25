@@ -1,0 +1,16 @@
+{
+    "name": "employee-cms",
+    "version": "1.0.0",
+    "description": "A command-line content management system for managing a company's employee database.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Your Name",
+    "license": "ISC",
+    "dependencies": {
+        "inquirer": "^8.2.4",
+        "mysql": "^2.18.1",
+        "mysql2": "^2.3.3"
+    }
+}
